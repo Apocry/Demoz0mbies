@@ -1,6 +1,7 @@
-# Script
+# Script Z3R0 N3T
 
 
-print(input("Hello usuário, digite o que você quer fazer:"))
+
+
 
 
